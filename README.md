@@ -39,5 +39,6 @@ streamlit run main.py
 - Global Sales (in millions)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👩‍💻 **Author**
-Sakshi Bhagat
-🌐 
+- Sakshi Bhagat
+- 🌐 [Global Video Game Sales Dashboard](https://github.com/sakshi123456sakshi)
+ 
