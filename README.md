@@ -13,7 +13,7 @@ This interactive dashboard helps developers, marketers, and gaming enthusiasts e
 - **Data Analysis:** Pandas, NumPy
 - **Visualization:** Plotly, Matplotlib, Seaborn
 - **IDE / Environment:** VS Code, Jupyter Notebook, Anaconda
-  ----------------------------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **🖥️ Project Overview**
 
 This dashboard provides an interactive, visual, and data-driven analysis of global video game sales, helping uncover key industry trends.
