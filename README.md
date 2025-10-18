@@ -19,9 +19,9 @@ This interactive dashboard helps developers, marketers, and gaming enthusiasts e
 This dashboard provides an interactive, visual, and data-driven analysis of global video game sales, helping uncover key industry trends.
 
 **1 Overview Tab**
-◦Displays total games, total sales, and median sales by region.
-◦Highlights Top 10 games and publishers based on total global sales.
-◦Insight: Shows how specific publishers and genres dominate the global market, revealing historical and modern bestsellers.
+◦ Displays total games, total sales, and median sales by region.
+◦ Highlights Top 10 games and publishers based on total global sales.
+◦ **Insight**: Shows how specific publishers and genres dominate the global market, revealing historical and modern bestsellers.
 
 **2 Platform Analysis Tab**
 Compares total sales by gaming platforms (e.g., PS4, Xbox, Switch, PC).
