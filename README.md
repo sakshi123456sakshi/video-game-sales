@@ -1,7 +1,7 @@
-📊 **Project Name:** Global Video Game Sales Analysis
+📊 **Project Name**: Global Video Game Sales Analysis
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🎮 **Global Video Game Sales Analysis Dashboard**
-A Streamlit dashboard designed to analyze global video game sales data — uncovering insights about platforms, genres, regions, and publishers.
+-A Streamlit dashboard designed to analyze global video game sales data — uncovering insights about platforms, genres, regions, and publishers.
 This interactive dashboard helps developers, marketers, and gaming enthusiasts explore patterns in game popularity, regional sales performance, and market trends.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔗 **Live Demo**
