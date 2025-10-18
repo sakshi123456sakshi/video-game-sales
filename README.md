@@ -20,7 +20,7 @@ This dashboard provides an interactive, visual, and data-driven analysis of glob
 
 **1 Overview Tab**
 - Displays total games, total sales, and median sales by region.
--◦Highlights Top 10 games and publishers based on total global sales.
+-Highlights Top 10 games and publishers based on total global sales.
 ◦ Insight: Shows how specific publishers and genres dominate the global market, revealing historical and modern bestsellers.
 
 **2 Platform Analysis Tab**
